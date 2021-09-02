@@ -1,0 +1,76 @@
+.header{
+    background-color: aqua;
+    height: 90px;
+    color:white;
+}
+
+.header-logo{
+    font-size: 36px;
+    float: left;
+    padding: 19px 20px;
+}
+
+.header-list li{
+    font-size: 20px;
+    float: left;
+    padding: 30px 20px;
+}
+
+.main{
+    padding: 100px 80px;
+}
+
+.copy-container h1{
+    padding: 0;
+    font-size: 140px;
+}
+
+.copy-container h2{
+    font-size: 60px;
+}
+
+.copy-container span{
+    color:red;
+}
+
+.contents ul .list1{
+    font-size: 25px;
+    color: springgreen;
+    list-style-type: square;
+}
+
+.contents ul .list2{
+    font-size: 25px;
+    color: crimson;
+    list-style-type: square;
+}
+
+.contents ul .list3{
+    font-size: 25px;
+    color: slateblue;
+    list-style-type: square;
+}
+
+.footer{
+    background-color: dimgrey;
+    color:white;
+    height: 120px;
+    padding: 40px;
+}
+
+.footer-logo{
+    font-size: 32px;
+    float: left;
+}
+
+.footer-list{
+    float: right;
+}
+
+.footer-list li{
+    padding-bottom: 18px;
+}
+
+li{
+    list-style-type:none;
+}
